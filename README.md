@@ -1,4 +1,4 @@
-# RecyclerView1
+# RecyclerView2
 # ScreenShot :
 ![ScreenShot](https://github.com/herlambangsb/RecyclerView1/blob/master/1.PNG)
 ![ScreenShot](https://github.com/herlambangsb/RecyclerView1/blob/master/2.PNG)
