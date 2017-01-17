@@ -1,7 +1,7 @@
 # RecyclerView2
 # ScreenShot :
-![ScreenShot](https://github.com/herlambangsb/RecyclerView1/blob/master/1.PNG)
-![ScreenShot](https://github.com/herlambangsb/RecyclerView1/blob/master/2.PNG)
+![ScreenShot](https://github.com/herlambangsb/RecyclerView2/blob/master/1.PNG)
+![ScreenShot](https://github.com/herlambangsb/RecyclerView2/blob/master/2.PNG)
 #Identitas : <br>
 Nama: Herlambang Septiaji Basuseno <br>
 Kelas: XI RPL 2 <br>
